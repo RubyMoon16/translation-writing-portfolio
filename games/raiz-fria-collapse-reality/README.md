@@ -1,14 +1,3 @@
-cv/README.md
-
-games/gray-dawn/README.md
-
-writing/janela-obliteral/README.md
-
-writing/revenge-of-the-spirits/README.md
-
-worldbuilding/nebulas-sorcery/README.md
-
-translations/README.md
 # 🟣 Raiz Fria – The Collapse of Reality
 
 ![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
