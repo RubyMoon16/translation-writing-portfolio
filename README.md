@@ -29,7 +29,6 @@ This portfolio showcases my **original works**, **translations**, and **creative
   — determine the future of the city and humanity itself.  
 - **Key Features:** branching narrative, moral dilemmas, dynamic worldbuilding, multiple endings.  
 
-🔗 [View on Itch.io](#) • [Support on Kickstarter](#) *(links to be updated when live)*  
 
 ---
 
@@ -67,7 +66,7 @@ This portfolio showcases my **original works**, **translations**, and **creative
 ---
 
 ## 🛠 Skills Showcased in Portfolio
-- Translation (literary, technical, EN ↔ PT)  
+- Translation (literary, technical, EN/JP/KO/ZH ↔ PT)  
 - Creative writing (fiction, horror, sci-fi)  
 - Narrative design for games (branching paths, dialogue, lore)  
 - Experimental formats (faux logs, interactive scripts, ritualistic prose)  
@@ -78,7 +77,7 @@ This portfolio showcases my **original works**, **translations**, and **creative
 ## 📫 Contact
 - **Email:** rubymoon1610@gmail.com  
 - **LinkedIn:** [[Profile](https://www.linkedin.com/in/luiza-f-37bb15183/)](#) **  
-- **Itch.io:** [[Your Itch.io Profile](https://rubymoon16.itch.io/)](#)  
+- **Itch.io:** [[Itch.io Profile](https://rubymoon16.itch.io/)](#)  
 
 ---
 
