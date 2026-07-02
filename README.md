@@ -78,7 +78,7 @@ This portfolio showcases my **original works**, **translations**, and **creative
 ## 📫 Contact
 - **Email:** rubymoon1610@gmail.com  
 - **LinkedIn:** [[Profile](https://www.linkedin.com/in/luiza-f-37bb15183/)](#) **  
-- **Itch.io:** [Your Itch.io Profile](#) *(add when published)*  
+- **Itch.io:** [[Your Itch.io Profile](https://rubymoon16.itch.io/)](#)  
 
 ---
 
