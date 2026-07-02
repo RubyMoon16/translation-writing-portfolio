@@ -24,4 +24,4 @@ Players take on the role of **Helene**, a hybrid protagonist bound to the mystic
 ## 📢 Current Goal
 This project is being published on **Itch.io** and **Kickstarter** to gather support, sponsors, and collaborators for full game development.  
 
-🔗 [View on Itch.io](#) • [Support on Kickstarter](#) *(links to be updated)*  
+🔗 [[View on Itch.io](https://rubymoon16.itch.io/)](#)  
